@@ -1,2 +1,2 @@
 # Practise
-This repository has been created for practice only
+This repository has been created for practice only.
